@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "YourAppName",
+    "icon": "C:/Windows/System32/real_hunch/assets/icon.jpg", // icon.png 파일의 경로
+    "splash": {
+      "image": "C:/Windows/System32/real_hunch/assets/splash.png", // splash.png 파일의 경로
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
+
